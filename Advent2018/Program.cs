@@ -6,7 +6,7 @@ namespace Advent2018
     {
         static void Main(string[] args)
         {
-            Day7.Run();
+            Day8.Run();
         }
     }
 }
